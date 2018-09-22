@@ -17,13 +17,23 @@
 <img src=https://github.com/anjanatiha/Movie-Revenue-Rating-Prediction-System/blob/master/Original/Plot/DTR%20Line.png>
 </kbd>
 
-#### Director: 
-<kbd>
-<img src=https://github.com/anjanatiha/Movie-Revenue-Rating-Prediction-System/blob/master/Original/Plot/Director.png>
-</kbd>
 #### Random Forest:
 <kbd>
 <img src=https://github.com/anjanatiha/Movie-Revenue-Rating-Prediction-System/blob/master/Original/Plot/RFR%20Bar.png>
+</kbd>
+
+#### Sample Conversations:
+<kbd>
+<img src=https://github.com/anjanatiha/Movie-Revenue-Rating-Prediction-System/blob/master/Original/Plot/download%20(1).png>
+</kbd>
+#### Sample Conversations:
+<kbd>
+<img src=https://github.com/anjanatiha/Movie-Revenue-Rating-Prediction-System/blob/master/Original/Plot/download.png.png>
+</kbd>
+
+#### Director: 
+<kbd>
+<img src=https://github.com/anjanatiha/Movie-Revenue-Rating-Prediction-System/blob/master/Original/Plot/Director.png>
 </kbd>
 
 #### Actor 1: 
@@ -38,14 +48,6 @@
 #### Actor 3: 
 <kbd>
 <img src=https://github.com/anjanatiha/Movie-Revenue-Rating-Prediction-System/blob/master/Original/Plot/actor%203.png>
-</kbd>
-#### Sample Conversations:
-<kbd>
-<img src=https://github.com/anjanatiha/Movie-Revenue-Rating-Prediction-System/blob/master/Original/Plot/download%20(1).png>
-</kbd>
-#### Sample Conversations:
-<kbd>
-<img src=https://github.com/anjanatiha/Movie-Revenue-Rating-Prediction-System/blob/master/Original/Plot/download.png.png>
 </kbd>
 
 
