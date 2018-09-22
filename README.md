@@ -46,8 +46,7 @@
 
 
 
-<img src=https://github.com/anjanatiha/Movie-Revenue-Rating-Prediction-System/blob/master/Original/Plot/actor%202.png width="425"> 
-<img src=https://github.com/anjanatiha/Movie-Revenue-Rating-Prediction-System/blob/master/Original/Plot/actor%203.png width="425">
+<img src=https://github.com/anjanatiha/Movie-Revenue-Rating-Prediction-System/blob/master/Original/Plot/actor%202.png width="425"> | <img src=https://github.com/anjanatiha/Movie-Revenue-Rating-Prediction-System/blob/master/Original/Plot/actor%203.png width="425">
 
 
 #### Tools Requirement: Anaconda, Python 
