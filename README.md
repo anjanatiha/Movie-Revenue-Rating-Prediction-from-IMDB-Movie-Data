@@ -9,23 +9,18 @@
 
 
 #### Random Forest:
-<kbd>
 <img src=https://github.com/anjanatiha/Movie-Revenue-Rating-Prediction-System/blob/master/Original/Plot/RFR%20Bar.png width="425"> | <img src=https://github.com/anjanatiha/Movie-Revenue-Rating-Prediction-System/blob/master/Original/Plot/download.png width="425">
-</kbd>
+
 
 #### Decision Tree: 
 <kbd>
-<img src=https://github.com/anjanatiha/Movie-Revenue-Rating-Prediction-System/blob/master/Original/Plot/DTR%20Bar.png width="280"> | <img src=https://github.com/anjanatiha/Movie-Revenue-Rating-Prediction-System/blob/master/Original/Plot/DTR%20Line.png width="280"> | <img src=https://github.com/anjanatiha/Movie-Revenue-Rating-Prediction-System/blob/master/Original/Plot/download%20(1).png width="280">
+<img src=https://github.com/anjanatiha/Movie-Revenue-Rating-Prediction-System/blob/master/Original/Plot/DTR%20Bar.png width="270"> | <img src=https://github.com/anjanatiha/Movie-Revenue-Rating-Prediction-System/blob/master/Original/Plot/DTR%20Line.png width="270"> | <img src=https://github.com/anjanatiha/Movie-Revenue-Rating-Prediction-System/blob/master/Original/Plot/download%20(1).png width="270">
 </kbd>
 
 
 <kbd>
-<img src=https://github.com/anjanatiha/Movie-Revenue-Rating-Prediction-System/blob/master/Original/Plot/Director.png width="425"> | <img src=https://github.com/anjanatiha/Movie-Revenue-Rating-Prediction-System/blob/master/Original/Plot/actor%201.png width="425">
-</kbd>
-
-
-<kbd>
-<img src=https://github.com/anjanatiha/Movie-Revenue-Rating-Prediction-System/blob/master/Original/Plot/actor%202.png width="425"> | <img src=https://github.com/anjanatiha/Movie-Revenue-Rating-Prediction-System/blob/master/Original/Plot/actor%203.png width="425">
+<img src=https://github.com/anjanatiha/Movie-Revenue-Rating-Prediction-System/blob/master/Original/Plot/Director.png width="280"> | <img src=https://github.com/anjanatiha/Movie-Revenue-Rating-Prediction-System/blob/master/Original/Plot/actor%201.png width="280">
+  <img src=https://github.com/anjanatiha/Movie-Revenue-Rating-Prediction-System/blob/master/Original/Plot/actor%202.png width="280"> | <img src=https://github.com/anjanatiha/Movie-Revenue-Rating-Prediction-System/blob/master/Original/Plot/actor%203.png width="280">
 </kbd>
 
 #### Tools Requirement: Anaconda, Python 
