@@ -30,7 +30,7 @@
 
 #### Sample Conversations:
 <kbd>
-<img src=https://github.com/anjanatiha/Movie-Revenue-Rating-Prediction-System/blob/master/Original/Plot/download.png.png>
+<img src=https://github.com/anjanatiha/Movie-Revenue-Rating-Prediction-System/blob/master/Original/Plot/download.png>
 </kbd>
 
 #### Director: 
