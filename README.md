@@ -15,17 +15,7 @@
 
 #### Decision Tree: 
 <kbd>
-<img src=https://github.com/anjanatiha/Movie-Revenue-Rating-Prediction-System/blob/master/Original/Plot/DTR%20Bar.png>
-</kbd>
-
-#### Decision Tree:
-<kbd>
-<img src=https://github.com/anjanatiha/Movie-Revenue-Rating-Prediction-System/blob/master/Original/Plot/DTR%20Line.png>
-</kbd>
-
-#### Decision Tree:
-<kbd>
-<img src=https://github.com/anjanatiha/Movie-Revenue-Rating-Prediction-System/blob/master/Original/Plot/download%20(1).png>
+<img src=https://github.com/anjanatiha/Movie-Revenue-Rating-Prediction-System/blob/master/Original/Plot/DTR%20Bar.png width="280"> | <img src=https://github.com/anjanatiha/Movie-Revenue-Rating-Prediction-System/blob/master/Original/Plot/DTR%20Line.png width="280"> | <img src=https://github.com/anjanatiha/Movie-Revenue-Rating-Prediction-System/blob/master/Original/Plot/download%20(1).png width="280">
 </kbd>
 
 
