@@ -47,7 +47,7 @@
 
 #### Actor 2               |  #### Actor 3
 :-------------------------:|:-------------------------:
-![](https://github.com/anjanatiha/Movie-Revenue-Rating-Prediction-System/blob/master/Original/Plot/actor%202.png>) | ![](https://github.com/anjanatiha/Movie-Revenue-Rating-Prediction-System/blob/master/Original/Plot/actor%203.png)
+![](https://github.com/anjanatiha/Movie-Revenue-Rating-Prediction-System/blob/master/Original/Plot/actor%202.png) | ![](https://github.com/anjanatiha/Movie-Revenue-Rating-Prediction-System/blob/master/Original/Plot/actor%203.png)
 
 
 #### Tools Requirement: Anaconda, Python 
