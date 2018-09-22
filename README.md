@@ -10,12 +10,7 @@
 
 #### Random Forest:
 <kbd>
-<img src=https://github.com/anjanatiha/Movie-Revenue-Rating-Prediction-System/blob/master/Original/Plot/RFR%20Bar.png>
-</kbd>
-
-#### Random Forest:
-<kbd>
-<img src=https://github.com/anjanatiha/Movie-Revenue-Rating-Prediction-System/blob/master/Original/Plot/download.png>
+<img src=https://github.com/anjanatiha/Movie-Revenue-Rating-Prediction-System/blob/master/Original/Plot/RFR%20Bar.png width="425"> | <img src=https://github.com/anjanatiha/Movie-Revenue-Rating-Prediction-System/blob/master/Original/Plot/download.png width="425">
 </kbd>
 
 #### Decision Tree: 
