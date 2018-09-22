@@ -12,6 +12,7 @@
 <kbd>
 <img src=https://github.com/anjanatiha/Movie-Revenue-Rating-Prediction-System/blob/master/Original/Plot/DTR%20Bar.png>
 </kbd>
+
 #### Decision Tree:
 <kbd>
 <img src=https://github.com/anjanatiha/Movie-Revenue-Rating-Prediction-System/blob/master/Original/Plot/DTR%20Line.png>
@@ -26,6 +27,7 @@
 <kbd>
 <img src=https://github.com/anjanatiha/Movie-Revenue-Rating-Prediction-System/blob/master/Original/Plot/download%20(1).png>
 </kbd>
+
 #### Sample Conversations:
 <kbd>
 <img src=https://github.com/anjanatiha/Movie-Revenue-Rating-Prediction-System/blob/master/Original/Plot/download.png.png>
@@ -40,6 +42,7 @@
 <kbd>
 <img src=https://github.com/anjanatiha/Movie-Revenue-Rating-Prediction-System/blob/master/Original/Plot/actor%201.png>
 </kbd>
+
 #### Actor 2:
 <kbd>
 <img src=https://github.com/anjanatiha/Movie-Revenue-Rating-Prediction-System/blob/master/Original/Plot/actor%202.png>
@@ -49,9 +52,6 @@
 <kbd>
 <img src=https://github.com/anjanatiha/Movie-Revenue-Rating-Prediction-System/blob/master/Original/Plot/actor%203.png>
 </kbd>
-
-
-
 
 
 #### Tools Requirement: Anaconda, Python 
