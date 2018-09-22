@@ -19,8 +19,8 @@
 
 
 <kbd>
-<img src=https://github.com/anjanatiha/Movie-Revenue-Rating-Prediction-System/blob/master/Original/Plot/Director.png width="280"/> | <img src=https://github.com/anjanatiha/Movie-Revenue-Rating-Prediction-System/blob/master/Original/Plot/actor%201.png width="280"/>
-<img src=https://github.com/anjanatiha/Movie-Revenue-Rating-Prediction-System/blob/master/Original/Plot/actor%202.png width="280"/> | <img src=https://github.com/anjanatiha/Movie-Revenue-Rating-Prediction-System/blob/master/Original/Plot/actor%203.png width="280"/>
+<img src=https://github.com/anjanatiha/Movie-Revenue-Rating-Prediction-System/blob/master/Original/Plot/Director.png width="400"/> | <img src=https://github.com/anjanatiha/Movie-Revenue-Rating-Prediction-System/blob/master/Original/Plot/actor%201.png width="400"/>
+<img src=https://github.com/anjanatiha/Movie-Revenue-Rating-Prediction-System/blob/master/Original/Plot/actor%202.png width="400"/> | <img src=https://github.com/anjanatiha/Movie-Revenue-Rating-Prediction-System/blob/master/Original/Plot/actor%203.png width="400"/>
 </kbd>
 
 #### Tools Requirement: Anaconda, Python 
