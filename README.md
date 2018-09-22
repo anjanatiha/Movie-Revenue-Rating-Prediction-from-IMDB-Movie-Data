@@ -8,6 +8,16 @@
 2. Performed data analysis/visualization, feature extraction, cleaning (missing value, anomaly), preprocessing (rescaling, normalization, feature transformation (one hot encoding)), training with cross-validation on 28 numerical & textual features with regression error (Mean Squared Error) 0.005 on scale of 1 for revenue.
 
 
+#### Random Forest:
+<kbd>
+<img src=https://github.com/anjanatiha/Movie-Revenue-Rating-Prediction-System/blob/master/Original/Plot/RFR%20Bar.png>
+</kbd>
+
+#### Random Forest:
+<kbd>
+<img src=https://github.com/anjanatiha/Movie-Revenue-Rating-Prediction-System/blob/master/Original/Plot/download.png>
+</kbd>
+
 #### Decision Tree: 
 <kbd>
 <img src=https://github.com/anjanatiha/Movie-Revenue-Rating-Prediction-System/blob/master/Original/Plot/DTR%20Bar.png>
@@ -18,20 +28,11 @@
 <img src=https://github.com/anjanatiha/Movie-Revenue-Rating-Prediction-System/blob/master/Original/Plot/DTR%20Line.png>
 </kbd>
 
-#### Random Forest:
-<kbd>
-<img src=https://github.com/anjanatiha/Movie-Revenue-Rating-Prediction-System/blob/master/Original/Plot/RFR%20Bar.png>
-</kbd>
-
-#### Sample Conversations:
+#### Decision Tree:
 <kbd>
 <img src=https://github.com/anjanatiha/Movie-Revenue-Rating-Prediction-System/blob/master/Original/Plot/download%20(1).png>
 </kbd>
 
-#### Sample Conversations:
-<kbd>
-<img src=https://github.com/anjanatiha/Movie-Revenue-Rating-Prediction-System/blob/master/Original/Plot/download.png>
-</kbd>
 
 #### Director: 
 <kbd>
