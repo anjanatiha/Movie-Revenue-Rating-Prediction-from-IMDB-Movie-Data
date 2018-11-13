@@ -4,8 +4,10 @@
 #### Duration   : Oct - Dec 16
 
 ### Description
-1. Developed regression model for predicting movie revenue and ratings using machine learning algorithms - Random Forest, Decision Tree and Support Vector regression on 5000 movies in IMDB movie database.
-2. Performed data analysis/visualization, feature extraction, cleaning (missing value, anomaly), preprocessing (rescaling, normalization, feature transformation (one hot encoding)), training with cross-validation on 28 numerical & textual features with regression error (Mean Squared Error) 0.005 on scale of 1 for revenue.
+1. Developed regression model for predicting movie revenue and ratings from 5000 movie data.
+2. Performed data analysis, visualization, feature extraction, cleaning (missing value, anomaly), preprocessing (rescaling, normalization, feature transformation (one hot encoding)) and trained with cross-validation.
+3. With 28 numerical, textual and categorical features attained regression error (Mean Squared Error) 0.005 on scale of 1 for revenue.
+
 
 
 #### Random Forest:
