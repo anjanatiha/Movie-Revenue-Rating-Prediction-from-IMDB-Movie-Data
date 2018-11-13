@@ -1,7 +1,8 @@
 # Movie Revenue & Rating Prediction from IMDB Movie Database 
 
-#### Technology : Python, Machine Learning
-#### Duration   : Oct - Dec 16
+##### Domain             : Artificial Intelligence, Machine Learning
+##### Sub-Domain         : Supervised Learning, Classification
+##### Techniques         : Predictive Modeling, Prediction, Regression Modeling, Regression, Feature Expraction, Preprocessing, Visualizeation, Feature Engineering
 
 ### Description
 1. Developed regression model for predicting movie revenue and ratings from 5000 movie data.
@@ -25,7 +26,12 @@
 <img src=https://github.com/anjanatiha/Movie-Revenue-Rating-Prediction-System/blob/master/Original/Plot/actor%202.png width="350"/> | <img src=https://github.com/anjanatiha/Movie-Revenue-Rating-Prediction-System/blob/master/Original/Plot/actor%203.png width="350"/>
 </kbd>
 
-#### Tools Requirement: Anaconda, Python 
+
+##### Languages   : Python
+##### Tools/IDE   : Anaconda
+##### Libraries   : NumPy, Pandas
+
+#### Duration   : October - December 2016
 
 Current Version  : v1.0.0.0
 
